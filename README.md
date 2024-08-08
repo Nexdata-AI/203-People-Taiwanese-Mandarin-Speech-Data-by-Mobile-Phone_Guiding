@@ -4,7 +4,7 @@
 ## Description
 The data collected 203 Taiwan people, covering Taipei, Kaohsiung, Taichung, Tainan, etc. 137 females, 66 males. It is recorded in quiet indoor environment. It can be used in speech recognition, machine translation, voiceprint recognition model training and algorithm research.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/64?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/64?source=Github
 
 
 ## Format
